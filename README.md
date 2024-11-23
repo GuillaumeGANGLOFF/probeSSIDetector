@@ -19,6 +19,8 @@ You can use it with only probes requests or after a general monitoring.
 
 2. Dependencies
    ```bash
+   python3 -m venv venv
+   source venv/bin/activate 
    pip install -r requirements.txt
    ```
 
