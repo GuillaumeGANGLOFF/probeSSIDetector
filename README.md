@@ -1,4 +1,4 @@
-# Basic-Linux-Privilege-Escalation-Audit
+# probeSSIDetector
 
 ## Description
 Based on the read off [[Probing for Password]](https://svs.informatik.uni-hamburg.de/publications/2022/2022-06-08_Probing_for_Passwords.pdf) and on the work of [[xartists/AdminSys]](https://github.com/xartistsAdminsys/flipper/tree/main/probes), this script analyzes for all the SSIDs detected after a sniffing probes.
